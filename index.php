@@ -8,6 +8,10 @@
 
 <body>
 <h1>Good Food</h1>
+<ul>
+<li>VEG</li>
+<li>Non VEG</li>
+</ul>
 
 </body>
   
